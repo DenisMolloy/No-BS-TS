@@ -4,19 +4,19 @@ https://www.youtube.com/watch?v=LKVHFHJsiO0&list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ
 TODO: Start @ 
 
 Video  - file(s)
- 1 - basics.ts
- 2 - function.ts, function-test.ts, js-function.js, functions.js
- 3 - funcs-and-funcs.ts
- 4 - parsedCoordinate.ts
- 5 - /challenge1
- 6 - optionals.ts
- 7 - tuples.ts
- 8 - generics.ts
- 9 - /challenge2
- 10 - generics-with-keyof.ts
- 11 - utility-types-1.ts
- 12 - readonly-1.ts
- 13 - enums.ts
+ 1. basics.ts
+ 2. function.ts, function-test.ts, js-function.js, functions.js
+ 3. funcs-and-funcs.ts
+ 4. parsedCoordinate.ts
+ 5. /challenge1
+ 6. optionals.ts
+ 7. tuples.ts
+ 8. generics.ts
+ 9. /challenge2
+ 10. generics-with-keyof.ts
+ 11. utility-types-1.ts
+ 12. readonly-1.ts
+ 13. enums.ts
 
 
 
