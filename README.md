@@ -1,7 +1,7 @@
 Jack Herrington's No BS TS tutorial
 https://www.youtube.com/watch?v=LKVHFHJsiO0&list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n&index=1
 
-TODO: Start @ 
+TODO: Start @ 14
 
 Video  - file(s)
  1. basics.ts
