@@ -1,7 +1,7 @@
 Jack Herrington's No BS TS tutorial
 https://www.youtube.com/watch?v=LKVHFHJsiO0&list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n&index=1
 
-TODO: Start @ 14
+TODO: Start 
 
 Video  - file(s)
  1. basics.ts
@@ -18,6 +18,10 @@ Video  - file(s)
  12. readonly-1.ts
  13. enums.ts
  14. database.ts
+ 15. generic-database.ts
+ 16. mapped.ts
+ 17. readonly-2.ts
+
 
 
 
