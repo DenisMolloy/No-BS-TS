@@ -22,6 +22,12 @@ Video  - file(s)
  16. mapped.ts
  17. readonly-2.ts
  18. abstract.ts
+ 19. mixins.ts
+ 21. conditionals.ts, conditionals-redone.ts
+ 22. utility-types-2.ts
+
+ 
+
 
 
 
