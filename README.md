@@ -25,7 +25,9 @@ Video  - file(s)
  19. mixins.ts
  21. conditionals.ts, conditionals-redone.ts
  22. utility-types-2.ts
-
+ 23. /episode20-react-intro/src/App.tsx
+ 24. /episode20-react-intro/src/App.tsx
+ 25. /episode20-react-intro/src/App.tsx
  
 
 
@@ -40,6 +42,11 @@ npx ts-node [filename]
 compile js with
 ```
 npx tsc [filename]
+```
+
+CRA template with TS
+```
+yarn create react-app [NAME] --template typescript
 ```
 
 Two main reasons to use TS:
